@@ -1,4 +1,4 @@
-<h3 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> I am a high school student who aims to learn everything about computers.</h3>
+<h3 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=30px> I am a high school student who aims to learn everything about computers.</h3>
 
 <p align="left"> <a href="https://twitter.com/vishalj30743121" target="blank"><img src="https://img.shields.io/twitter/follow/vishalj30743121?logo=twitter&style=for-the-badge" alt="vishalj30743121" /></a> </p>
 
