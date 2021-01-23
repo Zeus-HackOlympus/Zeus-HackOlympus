@@ -2,6 +2,11 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" align="right">
 
+##
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" align="centre">
+<p align="centre">Chilling</p>
+
 <p align="left"> <a href="https://twitter.com/vishalj30743121" target="blank"><img src="https://img.shields.io/twitter/follow/vishalj30743121?logo=twitter&style=for-the-badge" alt="vishalj30743121" /></a> </p>
 
 - 🌱 I’m currently learning **C programming and assembly**
