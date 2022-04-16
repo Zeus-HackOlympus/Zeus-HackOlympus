@@ -5,15 +5,9 @@
 
 - 📝 I regularly write articles on [https://hackolympus.com/](https://hackolympus.com/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hackolympus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hackolympus" height="30" width="40" /></a>
-
-<a href="/https://hackolympus.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hackolympus.com/feed/" height="30" width="40" /></a>
+<a href="https://twitter.com/hackolympus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hackolympus" height="30" width="40" /></a><a href="/https://hackolympus.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hackolympus.com/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
